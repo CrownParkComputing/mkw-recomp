@@ -1,0 +1,7 @@
+# Our own artefacts
+/game/
+/build/
+scratchpad/
+*.log
+__pycache__/
+.venv/
